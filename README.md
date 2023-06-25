@@ -7,6 +7,6 @@
 `npm install`
 
 - Step 3:
-`mkdir maps`
-`mkdir res`
-`.\build.bat`
+```mkdir maps
+mkdir res
+npm run build```
