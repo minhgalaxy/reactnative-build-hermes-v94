@@ -2,7 +2,7 @@
 
 - Step 1:
 ```bash
-git clone https://github.com/minhgalaxy/reactnative-build-hermes.git
+git clone https://github.com/minhgalaxy/reactnative-build-hermes-v94.git
 ```
 
 - Step 2:
