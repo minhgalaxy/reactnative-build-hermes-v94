@@ -3,6 +3,7 @@
 - Step 1:
 ```bash
 git clone https://github.com/minhgalaxy/reactnative-build-hermes-v94.git
+cd reactnative-build-hermes-v94
 ```
 
 - Step 2:
@@ -12,7 +13,9 @@ npm install
 
 - Step 3:
 ```bash
-mkdir maps
-mkdir res
+mkdir -p output/maps
+mkdir -p output/res
 npm run build
 ```
+
+- Step 4: Check `output` directory
