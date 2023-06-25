@@ -1,4 +1,4 @@
-# Build React Native javascript code into Hermes Bytecode
+# Build React Native javascript code into Hermes Bytecode version 94
 
 - Step 1:
 ```bash
