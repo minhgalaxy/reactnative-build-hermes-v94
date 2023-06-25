@@ -7,7 +7,8 @@
 `npm install`
 
 - Step 3:
-```
+```bash
 mkdir maps
 mkdir res
-npm run build```
+npm run build
+```
